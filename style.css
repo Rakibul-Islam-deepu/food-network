@@ -18,7 +18,7 @@ h1{
 }
 .top-ban {
     
-    margin-bottom: 200px;
+    margin-bottom: 80px;
 }
     .half-width{
         width: 50%;
@@ -51,11 +51,11 @@ text-align: center;
 .recipe-items{
   
     width: 30%;
-    margin-left: 5%;
+    margin-left: 35px;
     margin-right: 5%;
     border-radius: 5px;
-    padding: 0%;
-    box-shadow: 15px 15px 40px gray;
+    padding:0%;
+    box-shadow: 20px 20px 50px gray;
 }
 .resize{
     width:400px; 
