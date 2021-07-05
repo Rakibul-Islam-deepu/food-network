@@ -1,6 +1,7 @@
 body{
     font-family: 'Nanum Gothic', sans-serif;
     font-family: 'Oswald', sans-serif;
+    margin: 0px;
 }
 
 h1{
@@ -12,6 +13,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 200px;
 }   
 .flexible-container{
         display: flex;
@@ -33,6 +35,8 @@ section{
         border-radius: 5px;
         color: white;
     }
-    .top-banner{
-        display: flex;
-    }
+.about-me{
+    background-image: url(food-network-main/images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
