@@ -96,7 +96,52 @@ text-align: center;
     border-radius: 5%;
 
 }
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align:center;
+    text-decoration: none;
+  }
+  .fa:hover {
+    opacity: 0.5;
+  }  
+  #center-icon{
+      text-align: center;
+  }
 
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    border-radius: 30%;
+    text-align: center;
+   
+  }
+  
+  
+  .fa-twitter {
+    background: #6386a1;
+    color: white;
+    border-radius: 30%;
+  }
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+    border-radius: 30%
+  }
+  .fa-skype {
+    background: #0da2d8;
+    color: white;
+    border-radius: 30%
+  }
+
+
+  .fa-instagram {
+    background: #881253;
+    color: white;
+    border-radius: 30%;
+  }
+  
 #footer-back{
 background-color:aquamarine;
 text-align: center;
