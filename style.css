@@ -70,18 +70,30 @@ text-align: center;
 .align{
   text-align: center;  
 }
-.recipe-items{
+
+    .recipe-items{
   
-    width: 30%;
-    margin-left: 35px;
-    margin-right: 5%;
-    border-radius: 5px;
-    padding:0%;
+    width: 25%;
+    border-radius: 10px;
+    padding: 15px;
     box-shadow: 20px 20px 50px gray;
 }
+#box-one{
+    margin-left: 10%;
+    margin-right: 5%;
+}
+#box-two{
+    margin-left: 0%;
+    margin-right: 5%;
+}
+#box-three{
+    margin-left: 0%;
+    margin-right: 10%;
+}
 .resize{
-    width:400px; 
+    width: 300px;
     padding: 5px;
+    border-radius: 5%;
 
 }
 
